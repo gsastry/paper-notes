@@ -1,0 +1,6 @@
+# Title: Deep Learning (Review) #
+# Authors: Yann LeCun, Yoshua Bengio, and Geoff Hinton #
+
+# Notes: #
+- Good representations can be learned by training large non-linear predictors
+- Human level capability on perception-like tasks
